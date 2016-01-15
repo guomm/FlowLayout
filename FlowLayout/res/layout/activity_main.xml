@@ -1,0 +1,63 @@
+<com.layout.FlowLayoutImp xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:layout_margin="4dp"
+        android:background="#FF4444"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:background="#00ff00"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="4dp"
+        android:background="#0000ff"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:background="#ff0000"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:background="#ff0000"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:background="#ff0000"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_margin="4dp"
+        android:background="#ff0000"
+        android:text="refresh" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:background="#ff0000"
+        android:text="refresh" />
+
+</com.layout.FlowLayoutImp>
